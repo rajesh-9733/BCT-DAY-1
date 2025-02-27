@@ -1,0 +1,12 @@
+a=1
+b="rajesh"
+d=2.3
+tup=('r','a','j','e','s','h')
+lis=['r','a','j','e','s','h']
+dict={'r':1,'a':2,'j':3,'e':4,'s':5,'h':6}
+print(type(a))
+print(type(b))
+print(type(d))
+print(type(tup))    
+print(type(lis)) 
+print(type(dict))
